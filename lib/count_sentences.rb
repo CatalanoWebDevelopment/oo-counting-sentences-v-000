@@ -31,5 +31,6 @@ class String
     array.count
     if array == array[/[.?!]/]
       return array
+    end
   end
 end
